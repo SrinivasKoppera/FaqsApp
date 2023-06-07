@@ -1,0 +1,18 @@
+/* Write your code here. */
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+.bg-container {
+  padding: 2rem;
+  height: 100vh;
+}
+.container {
+  box-shadow: 0px 4px 16px 0px #cfc8c8;
+  padding: 2rem;
+  border-radius: 8px;
+}
+.heading {
+  text-align: center;
+  color: #cb8805;
+}
